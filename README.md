@@ -1,5 +1,5 @@
 # Minix
-A stylish grub2 theme, that makes you computer not look like the primordials DOS machines.
+A stylish grub2 theme, that makes you computer not look like the primordials DOS machines after installing grub.
 
 
 # Installation
