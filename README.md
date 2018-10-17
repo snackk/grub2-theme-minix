@@ -1,6 +1,7 @@
 # Minix
-A stylish grub2 theme, that makes you computer not look like the primordials DOS machines after installing grub.
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+A stylish grub2 theme, that makes you computer not look like the primordials DOS machines after installing grub.
 
 # Installation
 ```shell
