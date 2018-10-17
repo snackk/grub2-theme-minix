@@ -5,7 +5,7 @@
 title-text: ""
 desktop-image: "background.jpg"
 desktop-color: "#000000"
-terminal-font: "Unifont Regular 16"
+terminal-font: "Hack Regular 16"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -15,11 +15,11 @@ terminal-border: "0"
 
 # Show the boot menu
 + boot_menu {
-  left = 15%
-  top = 29%
-  width = 70%
+  left = 30%
+  top = 30%
+  width = 45%
   height = 60%
-  item_font = "Unifont Regular 16"
+  item_font = "Hack Regular 16"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
   item_height = 24
@@ -36,5 +36,5 @@ terminal-border: "0"
   id = "__timeout__"
   text = "Booting in %d seconds"
   color = "#FC4A46"
-  font = "Unifont Regular 16"
+  font = "Hack Regular 16"
 }
